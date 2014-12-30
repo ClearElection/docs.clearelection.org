@@ -1,0 +1,70 @@
+@import 'compass/css3';
+
+$header-height: 250px;
+$checkmark-color: rgb(9,42,180);
+$down-arrow-size: 32px;
+
+#Header {
+  width: 100%;
+  height: $header-height;
+  box-sizing: border-box;
+  position: relative;
+  text-align: center;
+  > .contents {
+    display: inline-block;
+    width: 800px;
+    height: 100%;
+    position: relative;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(2,33,183);
+  }
+  .banner {
+    position: relative;
+    width: 100%;
+    margin-top: 120px;
+  }
+  .check {
+    position: absolute;
+    top: -30px;
+    left: 34%;
+    background:url("/images/checkmark-blue.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height:100px;
+    width:100px;
+  }
+  .title {
+    font-size: 44px;
+    white-space: nowrap;
+    margin-top: 30px;
+    position: relative;
+  }
+  .subtitle {
+    font-size: 24px;
+    white-space: nowrap;
+    margin-top: 20px;
+    position: relative;
+  }
+  #Stub {
+    margin-top: 40px;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    .links {
+        color: darkblue;
+        text-shadow: none;
+        margin-top: 28px;
+    }
+    .link {
+        font-family: monospace;
+        a:hover {
+            color: blue;
+            text-decoration: underline;
+        }
+    }
+
+
+
+  }
+}
+

@@ -1,0 +1,309 @@
+{
+  "clearelection": "v0.0",
+  "name": "Biodex Election",
+  "schedule": {
+    "pollsOpen": "2014-11-25T02:00:10+00:00",
+    "pollsClose": "2014-24-24T02:00:10+00:00"
+  },
+  "contests": [
+    {
+      "contestId": "CONT0",
+      "name": "President",
+      "writeIn": true,
+      "candidates": [
+        {
+          "candidateId": "CAND0",
+          "name": "Pearl Steuber"
+        },
+        {
+          "candidateId": "CAND1",
+          "name": "Randall Leffler V"
+        },
+        {
+          "candidateId": "CAND2",
+          "name": "Enos Davis"
+        }
+      ]
+    },
+    {
+      "contestId": "CONT1",
+      "name": "Proposition A",
+      "candidates": [
+        {
+          "candidateId": "CAND3",
+          "name": "NO"
+        },
+        {
+          "candidateId": "CAND4",
+          "name": "YES"
+        }
+      ]
+    }
+  ],
+  "returns": {
+    "voters": [
+      {
+        "name": "Rowan Runolfsson"
+      },
+      {
+        "name": "Mallie Mann Jr."
+      },
+      {
+        "name": "Seth Huels"
+      },
+      {
+        "name": "Hannah Spinka III"
+      },
+      {
+        "name": "Kailyn Stracke"
+      },
+      {
+        "name": "Dr. Milford Dietrich"
+      },
+      {
+        "name": "Fabiola Fisher"
+      },
+      {
+        "name": "Dr. Clarissa Tillman"
+      },
+      {
+        "name": "Josie Dibbert DVM"
+      },
+      {
+        "name": "Roberto King"
+      }
+    ],
+    "ballots": [
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "1SHDWZJB",
+        "uniquifier": "T8",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND0"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "ABSTAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "BWGJFOM4",
+        "uniquifier": "7A",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND2"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "CAND4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "GR7NBF5Z",
+        "uniquifier": "DP",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND2"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "ABSTAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "NEWI4SMV",
+        "uniquifier": "1B",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND1"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "CAND4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "QCRWVRTK",
+        "uniquifier": "DX",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND0"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "CAND3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "RYFWXP4H",
+        "uniquifier": "WW",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND1"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "CAND3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "SUUFCP9R",
+        "uniquifier": "AU",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND1"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "ABSTAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "WG6HRALD",
+        "uniquifier": "EU",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "ABSTAIN"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "CAND4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "WNIKWACB",
+        "uniquifier": "4P",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "WRITEIN: Mac Bechtelar"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "CAND4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "clearelection-ballot": "v0.0",
+        "ballotId": "ZDBZPSMK",
+        "uniquifier": "AR",
+        "contests": [
+          {
+            "contestId": "CONT0",
+            "choices": [
+              {
+                "candidateId": "CAND0"
+              }
+            ]
+          },
+          {
+            "contestId": "CONT1",
+            "choices": [
+              {
+                "candidateId": "ABSTAIN"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
