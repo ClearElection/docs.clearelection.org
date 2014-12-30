@@ -1,6 +1,6 @@
-# info.clearelection.org
+# docs.clearelection.org
 
-This repo contains the static site generator for info.clearelection.org
+This repo contains the static site generator for docs.clearelection.org
 
 It's a [Middleman 3.x](http://middlemanapp.com/) project using [Compass](http://compass-style.org)/[SASS](http://sass-lang.com/), [HAML](http://haml-lang.com/), [Coffeescript](http://coffeescript.org), [bower](http://Bower.io), and [Foundation](http://foundation.zurb.com), among other things.
 
